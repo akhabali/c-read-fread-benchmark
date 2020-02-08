@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1581205156 source:c:\users\anas\projects\c-read-fread-benchmark\main.c
+	<stdio.h>
+	<errno.h>
+	<unistd.h>
+	<time.h>
+	<fcntl.h>
+
